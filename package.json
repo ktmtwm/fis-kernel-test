@@ -21,6 +21,7 @@
         "tar"  : "0.1.17",
         "iconv-lite" : "0.2.10",
         "mocha" : "*",
-        "chai" : "*"
+        "chai" : "*",
+        "fis-optimizer-uglify-js" : "*"
     }
 }
