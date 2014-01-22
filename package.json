@@ -22,6 +22,7 @@
         "iconv-lite" : "0.2.10",
         "mocha" : "*",
         "chai" : "*",
-        "fis-optimizer-uglify-js" : "*"
+        "fis-optimizer-uglify-js" : "*",
+        "fis-optimizer-clean-css" : "*"
     }
 }
