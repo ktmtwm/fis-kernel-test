@@ -15,7 +15,7 @@
     },
     "main" : "fis-kernel.js",
     "scripts" : {
-        "test" : "mocha test/ut --recursive"
+        "test" : "mocha test/ut"
     },
     "dependencies" : {
         "tar"  : "0.1.17",
