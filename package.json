@@ -1,7 +1,7 @@
 {
     "name" : "fis-kernel",
     "description" : "fis kernel.",
-    "version" : "1.9.6",
+    "version" : "1.9.7",
     "author" : "FIS Team <fis@baidu.com>",
     "homepage" : "http://fis.baidu.com/",
     "license": "MIT",
@@ -15,15 +15,10 @@
     },
     "main" : "fis-kernel.js",
     "scripts" : {
-        "test" : "mocha test/ut"
+        "test" : "mocha test/ut --recursive"
     },
     "dependencies" : {
         "tar"  : "0.1.17",
-        "iconv-lite" : "0.2.10",
-        "mocha" : "*",
-        "chai" : "*",
-        "fis-optimizer-uglify-js" : "*",
-        "fis-optimizer-clean-css" : "*",
-        "fis-packager-map" : "*"
+        "iconv-lite" : "0.2.10"
     }
 }
