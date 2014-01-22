@@ -19,6 +19,7 @@
     },
     "dependencies" : {
         "tar"  : "0.1.17",
-        "iconv-lite" : "0.2.10"
+        "iconv-lite" : "0.2.10",
+        "mocha" : "*"
     }
 }
