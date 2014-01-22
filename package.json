@@ -23,6 +23,7 @@
         "mocha" : "*",
         "chai" : "*",
         "fis-optimizer-uglify-js" : "*",
-        "fis-optimizer-clean-css" : "*"
+        "fis-optimizer-clean-css" : "*",
+        "fis-packager-map" : "*"
     }
 }
